@@ -54,7 +54,7 @@
       "who": "Ruben",
       "when": "Après le 15/08",
       "prio": "P1",
-      "statut": "À faire",
+      "statut": "Bloqué",
       "note": "06/07 vierges + power dialer. Fallback OnOff (accès admin) pour démarrer les appels avant."
     },
     {
