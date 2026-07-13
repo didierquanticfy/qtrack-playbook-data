@@ -1,0 +1,34 @@
+{
+  "updated": "2026-07-13",
+  "note": "DB de pilotage international. Gérée par Claude dans le repo, publiée sur le bucket. Statut : À faire / En cours / Fait. Prio : P0 = bloquant lancement, P1 = important, P2 = temps long.",
+  "groups": [
+    { "id": "R", "label": "Côté Ruben (CMO)" },
+    { "id": "T", "label": "Côté TQF / Didier" }
+  ],
+  "tasks": [
+    { "g": "R", "task": "Setup des séquences UK dans Lemlist", "who": "Ruben", "when": "Cette semaine", "prio": "P0", "statut": "En cours", "note": "Séquences EN pour l'outreach UK. S'inspirer des séquences Brevo (Jules, Clément, Arthur)." },
+    { "g": "R", "task": "Commencer à appeler les boutiques", "who": "Ruben", "when": "Dès jeudi 16/07", "prio": "P0", "statut": "À faire", "note": "Outreach téléphonique boutiques (en plus des agences CRM)." },
+    { "g": "R", "task": "Débrief des calls agences CRM UK", "who": "Ruben", "when": "Cette semaine", "prio": "P0", "statut": "À faire", "note": "Retour sur Aurora / Grow with Aurora et les autres agences appelées." },
+    { "g": "R", "task": "Appeler les agences CRM UK (partenariats)", "who": "Ruben", "when": "Semaine du 13/07", "prio": "P1", "statut": "En cours", "note": "Aurora / Grow with Aurora en premier." },
+    { "g": "R", "task": "Tester Withallo (téléphonie)", "who": "Ruben", "when": "Après le 15/08", "prio": "P1", "statut": "À faire", "note": "06/07 vierges + power dialer. Fallback OnOff (accès admin) pour démarrer les appels avant." },
+    { "g": "R", "task": "Débrief des tests au point hebdo", "who": "Ruben", "when": "Lundi", "prio": "P1", "statut": "À faire", "note": "Point de reprise hebdomadaire." },
+    { "g": "R", "task": "Version EN du one-pager partenaire", "who": "Ruben", "when": "Sur réception", "prio": "P1", "statut": "À faire", "note": "Dès réception des fichiers sources de Didier." },
+    { "g": "R", "task": "Page LinkedIn EN", "who": "Ruben", "when": "Semaine du 13/07", "prio": "P1", "statut": "À faire", "note": "Créer la 2e page LinkedIn en anglais." },
+    { "g": "R", "task": "Installer Bigin for Gmail + se connecter à Zoho Bigin", "who": "Ruben", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "Extension Gmail Marketplace « Bigin for Gmail »." },
+    { "g": "R", "task": "Lire le Playbook SDR + les 3 séquences Brevo", "who": "Ruben", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "Automation Brevo : Jules, Clément, Arthur." },
+    { "g": "R", "task": "Ajouter « The Quantic Factory » sur son LinkedIn perso", "who": "Ruben", "when": "Rapide", "prio": "P2", "statut": "À faire", "note": "Employé depuis décembre (crédibilité pour les appels)." },
+    { "g": "R", "task": "Revoir le site (modifs) + préparer le fichier pour Inès", "who": "Ruben", "when": "Plus tard", "prio": "P2", "statut": "À faire", "note": "Pas urgent." },
+
+    { "g": "T", "task": "Mettre en place Claude Code partagé (knowledge mutualisé Ruben + Didier)", "who": "Didier", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "Serveur ou git partagé pour travailler sur la même matière. Archi à spécifier." },
+    { "g": "T", "task": "Lancer Inès sur le scraping UK SEG2", "who": "Didier → Inès", "when": "Tout de suite", "prio": "P0", "statut": "À faire", "note": "Job title (Head of E-commerce) + mobile + email. Commencer par les équipées. Alessandro part sous ~1 sem." },
+    { "g": "T", "task": "Créer le compte Pipedrive de Ruben (SDR n°4)", "who": "Didier", "when": "Cette semaine", "prio": "P0", "statut": "À faire", "note": "" },
+    { "g": "T", "task": "Créer le compte Zoho Bigin de Ruben + accès", "who": "Didier", "when": "Cette semaine", "prio": "P0", "statut": "À faire", "note": "" },
+    { "g": "T", "task": "Envoyer Playbook SDR + one-pager partenaire (+ sources)", "who": "Didier", "when": "Cette semaine", "prio": "P0", "statut": "À faire", "note": "" },
+    { "g": "T", "task": "Envoyer les liens utiles + le Claap de la réunion", "who": "Didier", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "Brevo automation, accès, etc." },
+    { "g": "T", "task": "Programmer le call avec Arthur (Flymove) sur l'incorporation US", "who": "Didier + Ruben", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "Delaware / Atlas, retour d'expérience." },
+    { "g": "T", "task": "Créer la société US (C-Corp Delaware via Atlas)", "who": "Didier (TQF)", "when": "Après le 15/08", "prio": "P1", "statut": "À faire", "note": "~2000 €/an, financé TQF. Montée en parallèle de l'UK, non bloquante (on facture UK depuis la FR)." },
+    { "g": "T", "task": "Poser le créneau récurrent « International » (lundi 15h30-18h)", "who": "Didier", "when": "Cette semaine", "prio": "P1", "statut": "À faire", "note": "" },
+    { "g": "T", "task": "Séparer US/UK/FR dans l'étude concurrentielle", "who": "Didier", "when": "Livré", "prio": "P1", "statut": "Fait", "note": "Matrices UK/FR livrées (matrices-uk-fr.html)." },
+    { "g": "T", "task": "Vérifier via StoreLeads les boutiques US ayant aussi une version EU", "who": "Didier", "when": "Plus tard", "prio": "P2", "statut": "À faire", "note": "Angle : sociétés US vendant en Europe." }
+  ]
+}
