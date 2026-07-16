@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-16",
   "note": "DB de pilotage international. Gérée par Claude dans le repo, publiée sur le bucket. Statut : À faire / En cours / Fait. Prio : P0 = bloquant lancement, P1 = important, P2 = temps long.",
   "groups": [
     {
@@ -126,7 +126,7 @@
       "who": "Didier",
       "when": "Cette semaine",
       "prio": "P1",
-      "statut": "En cours",
+      "statut": "Fait",
       "note": "Serveur ou git partagé pour travailler sur la même matière. Archi à spécifier."
     },
     {
